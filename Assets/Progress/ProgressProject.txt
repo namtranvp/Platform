@@ -1,0 +1,3 @@
+tao nv -> move, jum, attack -> animation
+skill
+enemy

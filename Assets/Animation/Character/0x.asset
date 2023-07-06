@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 846df92ff6ef29f40b8a1249e7f4ecca, type: 3}
+  m_Name: 0x
+  m_EditorClassIdentifier: 
+  bodyFramesIdle:
+  - {fileID: 21300000, guid: 011edc8c43c152949bd256d8b6c34822, type: 3}
+  footFramesIdle:
+  - {fileID: 21300000, guid: 629a3ee4a207d274687a341e642f1c03, type: 3}
+  bodyFramesRun:
+  - {fileID: 21300000, guid: 40bee25440562d44aaa6cbe5397c5780, type: 3}
+  - {fileID: 21300000, guid: c81242b703cbe8241b353ac0c95bf5a5, type: 3}
+  - {fileID: 21300000, guid: 5fc44817478f4734e8696d730ed2fbc5, type: 3}
+  - {fileID: 21300000, guid: 9ad99d6fdf64026468b852f8a7731c1c, type: 3}
+  - {fileID: 21300000, guid: 4258422966a4dff42ab9419b6e18b42d, type: 3}
+  footFramesRun:
+  - {fileID: 21300000, guid: 5ea056ab77b4ebd489b479c773ee4d0b, type: 3}
+  - {fileID: 21300000, guid: de954bf598c980c4081259cfbdc79015, type: 3}
+  - {fileID: 21300000, guid: 06bfb3b88cef19145ac62bde7769b2ed, type: 3}
+  - {fileID: 21300000, guid: a8a1f1354a7547c42aa8486f032d9783, type: 3}
+  - {fileID: 21300000, guid: 311bf7fdeb38a82498d689bd0d7b6177, type: 3}
+  bodyFramesJump:
+  - {fileID: 21300000, guid: 02880af16f4c5054e8c61640b85401db, type: 3}
+  - {fileID: 21300000, guid: 02880af16f4c5054e8c61640b85401db, type: 3}
+  - {fileID: 21300000, guid: 7132b34473fe60b4cb1978480c19a0fb, type: 3}
+  footFramesJump:
+  - {fileID: 21300000, guid: 9e5e8028b36afe54b91ba36896328745, type: 3}
+  - {fileID: 21300000, guid: b867dd0f6f796c44380b7d1cee79eecd, type: 3}
+  bodyFramesAttack:
+  - {fileID: 21300000, guid: c3ee9bb23771d4c4fb52ffd22b4ac6ae, type: 3}
+  - {fileID: 21300000, guid: 3c2b9a61efdb9c749bd4f5cf9e99cd1c, type: 3}
+  - {fileID: 21300000, guid: 6893c6ebf12c9ff4187a9580e4ccf5bd, type: 3}
+  - {fileID: 21300000, guid: 06403b6b7dabcdf40a5439bcb83bd278, type: 3}
+  footFramesAttack:
+  - {fileID: 21300000, guid: e71d821a0b1308443bfd57088afc4dc7, type: 3}

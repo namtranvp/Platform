@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c647a5f36bae584db02bb6da7d2ef21, type: 3}
+  m_Name: Sword8x
+  m_EditorClassIdentifier: 
+  skillFrames:
+  - {fileID: 21300000, guid: d8b6a2cf9a5416a4d83d57d89e2ca299, type: 3}
+  - {fileID: 21300000, guid: 2993d77e5d62a884b9488d6000eb9081, type: 3}
+  - {fileID: 21300000, guid: 9cde21bba42d9694f8a57354f7625f70, type: 3}
+  - {fileID: 21300000, guid: 6ad28e8c93b79f141846601c3e7b7be4, type: 3}
